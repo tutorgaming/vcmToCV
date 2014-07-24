@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1406026986 source:/home/tutorgaming/workspace/vcmImageToCV/main.cpp
+	<iostream>
+	<opencv/cv.h>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/contrib/contrib.hpp>
+	<boost/interprocess/managed_shared_memory.hpp>
+	<boost/interprocess/allocators/allocator.hpp>
+	<vector>
+	<string>
+
